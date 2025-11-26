@@ -1,7 +1,7 @@
 # ☕ Java & Spring Framework Lab – 5th Semester
 
 This repository contains all **Java and Spring Framework (JSF) Laboratory programs** for the 5th Semester CSE.
-The lab is divided into **Java Hands-on Experiments (lab_1a → lab_4)** and **Spring Framework Experiments**, covering OOP concepts, packages, multithreading, JDBC, MVC, and dependency injection.
+The lab is divided into **Java Hands-on Experiments (lab_1a → lab_5)** and **Spring Framework Experiments**, covering OOP concepts, packages, multithreading, JDBC, MVC, and dependency injection.
 
 ---
 
@@ -16,6 +16,7 @@ JSF/
 ├── lab_2b/
 ├── lab_3/
 ├── lab_4/
+├── lab_5/
 │
 ├── Java_1a.pdf
 ├── Java_1b.pdf
